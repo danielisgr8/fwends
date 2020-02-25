@@ -13,6 +13,7 @@ cat - get german dictionary and string random words together to make a "sentence
 secret hitler
 	at beginning you get told you are liberal or fascist (or secret hitler)
 	you choose whether to lie or not
+	option to start over at the end
 	
 	liberal
 		truth
