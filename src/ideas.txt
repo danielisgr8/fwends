@@ -9,38 +9,5 @@ hannah - put clothes in a pot to die them
 annalise - says random compliments
 cat - get german dictionary and string random words together to make a "sentence"
 
-
-secret hitler
-	at beginning you get told you are liberal or fascist (or secret hitler)
-	you choose whether to lie or not
-	option to start over at the end
-	
-	liberal
-		truth
-			nobody trusts you, [] kills you
-			you form a powerful lib gang with other potential liberals
-				turns out, all of them were lying and you lose
-				turns out, [] was lying about being a liberal, you lose
-				lib gang never lies, you win
-			[] is immediately suspicious of you for no reason and convinces [] to kill you later in the game
-			you do basically nothing all game and win
-		lie
-			you get killed because people think you're a facist. after the game, when everyone finds out you lied, [] throws you out the window
-			for some reason lying made [] super sure you're a liberal. you win
-		either
-			
-	facist
-		truth
-			you join trendy facists, the leader being [], and win
-			nobody believes you had the confidence to tell the truth, so you fly by undetected and win
-		lie
-			you infiltrate the lib gang, easily convincing [] of your innocence, and win
-			you quickly convince [] you're liberal and use it the win the game
-			[] asks you a question and you laugh while answering. this blows your cover and you lose
-		either
-			you somehow kill hitler even though you knew who he was and lose
-	either
-		everyone yells way too much, so nobody /really/ wins
-		rachel's laminated cards are a delight to the touch, making everyone playing a winner
 parties
 group chat names
