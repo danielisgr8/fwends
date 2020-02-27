@@ -1,4 +1,0 @@
-door
-tap to punch a hole
-buttons at bottom to switch between punch and note mode
-in note mode, tap to put a "jake's hole" note
