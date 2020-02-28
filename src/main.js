@@ -1,7 +1,7 @@
 const pages = [
   {
     text: "Austin",
-    href: "./austin/index.html"
+    href: "./austin/"
   },
   {
     text: "Hannah",
